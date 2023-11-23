@@ -754,6 +754,24 @@ h1.style1 span.p:nth-child(n + 2), h2.style1 span.p:nth-child(n + 2), h3.style1 
 	border-bottom-right-radius: inherit;
 }
 
+#image06 .frame {
+	width: 100vw;
+	transition: none;
+}
+
+#image06 .frame img {
+	transition: none;
+}
+
+#image07 .frame {
+	width: 100vw;
+	transition: none;
+}
+
+#image07 .frame img {
+	transition: none;
+}
+
 .image.style1 .frame {
 	width: 100vw;
 	box-shadow: 0rem 1.75rem 2rem 0rem #000000;
